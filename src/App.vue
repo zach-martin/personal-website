@@ -42,7 +42,12 @@ import SkillsProfile from "./components/SkillsProfile.vue"
 
 <style scoped>
 
-
+.text-icons{
+      text-align: center;
+      font-size: x-large;
+      font-weight: bold;
+      padding: 50px;
+}
 
 @media (min-width: 1024px) {
   header {
@@ -61,12 +66,7 @@ import SkillsProfile from "./components/SkillsProfile.vue"
       padding: 100px;
 
     }
-    .text-icons{
-      text-align: center;
-      font-size: x-large;
-      font-weight: bold;
-      padding: 50px;
-}
+
 
 
 }

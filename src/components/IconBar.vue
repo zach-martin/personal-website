@@ -95,6 +95,7 @@ import IconNeo4jVue from "./icons/IconNeo4j.vue";
 .wrapper {
   display: flex;
   position: relative;
+  justify-content: center;
 }
 
 @media (hover: hover) {
